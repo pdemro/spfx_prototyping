@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sandbox-client-side-solution",
+    "id": "7d5daa65-3f2a-42b4-85ef-bea84db84d2f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sandbox.sppkg"
+  }
+}

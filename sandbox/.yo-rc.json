@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "sandbox",
+    "libraryId": "7d5daa65-3f2a-42b4-85ef-bea84db84d2f",
+    "environment": "spo"
+  }
+}
